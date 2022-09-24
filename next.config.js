@@ -3,7 +3,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  distDir: 'build',
+  //distDir: 'build',
   images: {
     dangerouslyAllowSVG: true,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
